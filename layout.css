@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Mansalva&display=swap');
+
+header, aside
+{
+    border: 10px solid lightskyblue;
+    background-color: white;
+    
+}
+
+html
+{
+    font-family: 'Indie Flower', sans-serif;
+    background-color: coral;
+    //background-color: #ffa95fff;
+}
+
+header
+{
+    margin-top: 2.5%;
+    font-family: 'Mansalva', sans-serif;
+    text-align: center;
+    margin: 5%;
+    margin-bottom: 0%;
+    margin-top: 2.5%;
+    padding: .5em;
+}
+
+body
+{
+    margin: 0 auto;
+    width: 90%;
+    font-size: 18px;
+    line-height: 1.1;
+    padding: 0em;
+}
+
+aside
+{
+    float: right;
+    max-width: 60%;
+    font-size: 18px;
+    line-height: 1.1;
+    padding: 1em, 1em, 1em, 1em;
+}
+
+#body-text
+{
+    margin-top: 2.5%;
+    margin-right: 20%;
+    padding: .5em;
+}
+
+#info
+{
+    margin: 0%;
+    margin-top: 2.5%;
+    padding: .5em;
+    float: left;
+    max-width: 25%;
+}
+
+#image_format
+{
+    margin: center auto;
+    width: 80%;
+}
